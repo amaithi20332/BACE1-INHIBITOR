@@ -1,0 +1,15 @@
+receptor = BACE1_AF.pdbqt
+
+cpu=10
+seed =1
+num_modes=5
+exhaustiveness=5
+
+
+center_x = 3.8615
+center_y =11.807
+center_z =
+
+size_x =80
+size_y = 80
+size_z = 80
